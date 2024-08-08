@@ -1,4 +1,4 @@
-import React from 'react'
+import styles from "@/app/ui/users/users.module.css"
 
 export default function UsersPage() {
   return (
